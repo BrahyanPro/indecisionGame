@@ -1,5 +1,7 @@
 # Brahyan Pro en Vuejs
 
+- Practicando vuejs de manera cool
+
 ## Project setup
 
 ```
